@@ -21,11 +21,11 @@
     "first-match": "~0.0.1",
     "express": "^4.3.2",
     "validator": "^3.12.0",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.21",
     "node-parse-url": "^0.1.0",
     "async": "^0.9.0",
     "request": "^2.36.0",
-    "cheerio": "^0.16.0"
+    "cheerio": "^0.20.0"
   },
   "author": "Hengki Sihombing <hengki.sihombing@gmail.com> (http://twitter.com/hengkiardo)",
   "license": "MIT",
