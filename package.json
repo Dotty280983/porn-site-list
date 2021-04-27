@@ -20,7 +20,7 @@
   "dependencies": {
     "first-match": "~0.0.1",
     "express": "^4.3.2",
-    "validator": "^3.12.0",
+    "validator": "^13.6.0",
     "lodash": "^2.4.1",
     "node-parse-url": "^0.1.0",
     "async": "^0.9.0",
